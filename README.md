@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # I'm Haaran 👋
 
 ## About Me
